@@ -1,1 +1,1 @@
-# practica-2B
+"repositorio inicializado" 
